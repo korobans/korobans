@@ -11,6 +11,6 @@
 
 ### Обо мне
 - Текущее место работы - **X5 Group**
-- Образование: **РГГМУ - Прикладная информатика (BSc)**
+- Образование: **РГГМУ - Прикладная информатика (BSc)**, **ЦУ - Машинное обучение (MSc)**
 - Пробую себя в написании **научных трудов**
 - Любимые репозитории: [TD-WE (Time-Decay Weighted Ensemble)](https://github.com/korobans/TD-WE), [Marketplace Analysis](https://github.com/korobans/marketplace_analysis)
